@@ -1,0 +1,2 @@
+export const GET_QUESTIONS = "GET_GUESTIONS"
+export const FIND_QUESTION = "FIND_QUESTION"
